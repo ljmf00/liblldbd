@@ -1,0 +1,11 @@
+{
+	"name": "liblldbd",
+	"description": "Helper library to implement debug utilities for LLDB D plugin",
+	"copyright": "Copyright © 2021, Luís Ferreira",
+	"authors": [
+		"Luís Ferreira"
+	],
+	"license": "MIT",
+	"sourcePath": "source",
+	"importPath": [ "source" ]
+}
